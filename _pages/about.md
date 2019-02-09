@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+[(PDF version here)](https://jingqisu.github.io/files/resume-JineQi.v0.2.pdf)
 ## Education
 
 - Syracuse University, Syracuse, NY
@@ -26,7 +27,7 @@ redirect_from:
   - *Competence:* C#, JavaScript, HTML, SQL, Golang, Java, Markdown.
 - Tech Stacks:
   - .NET Backend Framework, HTML+CSS+JS Frontend Framework, Windows Presentation Foundation, Network Programming, Microchip Programming;
-  - *Competence:* Amazon Web Service, Django (a [blog website](18.216.116.220) deployed on AWS), Scrapy, QT, Android Programming, Algorithms in Artificial Intelligence.
+  - *Competence:* Amazon Web Service, Django (a [blog website](http://18.216.116.220/) deployed on AWS), Scrapy, QT, Android Programming, Algorithms in Artificial Intelligence.
 - Operating Systems:
   - Windows, Ubuntu.
 - Software:
