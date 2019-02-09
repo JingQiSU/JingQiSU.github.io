@@ -85,5 +85,16 @@ redirect_from:
 
 ## Publication
 
-- Deng CJ, **Qi J,** Li M, Luo X, Chi C. Signal Clustering Algorithm and Its Application Progress in Signal Clustering, Engineering Index 2016
+- Deng CJ, **Qi J,** Li M, Luo X, Chi C. Application Progress of Signal Clustering Algorithm, Communications in Computer and Information Science 2016
 
+## Working Experience
+
+* Syracuse University, Syracuse, NY
+  * *Teaching Assistant*, Jan. 2019 – May. 2019 (Expected) 
+  * TA for Internet Security
+
+* China Resources Microelectronics Limited, Wuxi, Jiangsu, China
+
+  * *Intern of IT Department,* Jul. 2015 – Aug. 2015
+
+  * Developed a work flow management software named TOBE in C# with WPF
