@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jing Qi Personal Website"
+title: "Jing Qi Resume"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,8 +10,80 @@ redirect_from:
 
 ## Education
 
-* Syracuse University, Syracuse, NY
-  * College of Engineering & Computer Science
-  * M.S., Computer Engineering, Expected May 2019
-  * Direction: Software System
-  * GPA: 3.82/4
+- Syracuse University, Syracuse, NY
+  - College of Engineering & Computer Science
+  - Master of Engineering, Computer Engineering, Expected May 2019
+  - Direction: Software System
+  - GPA: 3.82/4
+- China University of Geosciences, Beijing
+  - College of Information & Engineering
+  - Bachelor of Engineering, Electronic and Information Engineering, June 2017
+
+## Technical Skills
+
+- Languages:
+  - Python, C++, C;
+  - *Competence:* C#, JavaScript, HTML, SQL, Golang, Java, Markdown.
+- Tech Stacks:
+  - .NET Backend Framework, HTML+CSS+JS Frontend Framework, Windows Presentation Foundation, Network Programming, Microchip Programming;
+  - *Competence:* Amazon Web Service, Django (a [blog website](18.216.116.220) deployed on AWS), Scrapy, QT, Android Programming, Algorithms in Artificial Intelligence.
+- Operating Systems:
+  - Windows, Ubuntu.
+- Software:
+  - Visual Studio, VS Code, PuTTY, WinSCP, Virtual Box, VMware, PyCharm, Android Studio, WireShark.
+
+## Courseworks
+
+- Software Modeling and Analysis
+- Object Oriented Design
+- Computer Security
+- Internet Security
+- Internet Programming
+- Introduction to Cryptography
+- Introduction to Artificial Intelligence
+- Advanced Computer Architecture
+
+## Awards
+
+- Graduate Student Grant, Syracuse, NY
+  - 30% Tuition Scholarship, Sep. 2017 - May. 2019
+- Academic Scholarship, Beijing, China
+  - Top 2% students, Sep. 2016 - May. 2017
+
+## Independent Projects
+
+- VPN with C Language:
+  - Virtual network kernel with TUN/TAP
+  - Encrypted tunnel using SSL based on PKI
+  - Client login mechanism
+  - Multiple clients supported
+
+- Code Repository Client/Server System:
+  - OOD
+  - Check in/out files, version management, file browser supported
+  - Developed a NoSQL database with C++
+  - A file and directory operations module in C++ 
+  - WPF for UI design
+  - WCF for communication between C/S
+
+- Twitch Data Analysis:
+  - A data analysis for games trend
+  - Web crawler deployed on AWS with Scrapy
+  - Semantic analysis with NLTK
+  - Data visualization with Bokeh
+
+- Automatic Number Plate Recognition System:
+  - STM32 microchip development
+  - SVM for POI detection
+  - ANN for OCR
+  - QT for UI and serial-port communication
+  - OpenCV with C++ for image processing
+
+- eBook Reader
+  - Client designed with HTML5, CSS3, JS
+  - Server using Asp.Net Core MVC
+
+## Publication
+
+- Deng CJ, **Qi J,** Li M, Luo X, Chi C. Signal Clustering Algorithm and Its Application Progress in Signal Clustering, Engineering Index 2016
+
