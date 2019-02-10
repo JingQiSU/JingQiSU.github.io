@@ -3,7 +3,7 @@ title: "Code Repository Client/Server System"
 collection: teaching
 type: "C++, WPF, WCF, C#, C++/CLI, GUI"
 permalink: /project/code_repository_client_server_system
-date: 2018-12-1
+date: 2018-12-01
 ---
 
 <span style="color: #666666; font-size: 0.8em;">A C++ based code repo system.</span>

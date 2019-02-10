@@ -3,7 +3,7 @@ title: "Twitch Data Analysis"
 collection: teaching
 type: "Python, Scrapy, Bokeh, NLTK"
 permalink: /project/twitch_data_analysis
-date: 2018-12-11
+date: 2018-11-11
 ---
 
 <span style="color: #666666; font-size: 0.8em;">Craw data from twitch and then analyze the data.</span>
