@@ -3,7 +3,7 @@ title: "Automatic Number Plate Recognition System"
 collection: teaching
 type: "C++, OpenCV, SVM, ANN, STM32, QT"
 permalink: /project/automatic_number_plate_recognition_system
-date: 2018-11-01
+date: 2017-11-01
 ---
 
 <span style="color: #666666; font-size: 0.8em;">Two endpoints, - image processing in upper computer - image capturing and responsing in lower device.</span>

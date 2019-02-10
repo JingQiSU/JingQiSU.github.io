@@ -55,14 +55,14 @@ redirect_from:
   - Semantic analysis with NLTK
   - Data visualization with Bokeh
 
-- Automatic Number Plate Recognition System:
+- [Automatic Number Plate Recognition System](https://jingqisu.github.io/project/automatic_number_plate_recognition_system):
   - STM32 microchip development
   - SVM for POI detection
   - ANN for OCR
   - QT for UI and serial-port communication
   - OpenCV with C++ for image processing
 
-- eBook Reader
+- [eBook Reader](https://jingqisu.github.io/project/ebook_reader):
   - Client designed with HTML5, CSS3, JS
   - Server using Asp.Net Core MVC
 
