@@ -41,7 +41,7 @@ redirect_from:
   - Client login mechanism
   - Multiple clients supported
 
-- Code Repository Client/Server System:
+- [Code Repository Client/Server System](https://jingqisu.github.io/project/code_repository_client_server_system):
   - OOD
   - Check in/out files, version management, file browser supported
   - Developed a NoSQL database with C++

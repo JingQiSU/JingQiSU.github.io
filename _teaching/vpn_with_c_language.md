@@ -6,7 +6,7 @@ permalink: /project/vpn_with_c_language
 date: 2018-1-1
 ---
 
-A command line based VPN application.
+<span style="color: #666666; font-size: 0.8em;">A command line based VPN application.</span>
 
 [Link to GitHub](https://github.com/ZzzGin/VPN-in-C)
 
