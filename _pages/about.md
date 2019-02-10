@@ -35,7 +35,7 @@ redirect_from:
 
 ## Independent Projects
 
-- VPN with C Language:
+- [VPN with C Language](https://jingqisu.github.io/project/vpn_with_c_language):
   - Virtual network kernel with TUN/TAP
   - Encrypted tunnel using SSL based on PKI
   - Client login mechanism
