@@ -4,8 +4,6 @@ title: "Educations"
 author_profile: true
 ---
 
-## Education
-
 - Syracuse University, Syracuse, NY
 
   - Details:
@@ -25,12 +23,12 @@ author_profile: true
 
   - Courseworks
 
-    - Software Modeling and Analysis
-    - Object Oriented Design
-    - Computer Security
-    - Internet Security
-    - Internet Programming
-    - Introduction to Cryotography
+    - [Software Modeling and Analysis](https://ecs.syr.edu/faculty/fawcett/handouts/webpages/CSE681.htm)
+    - [Object Oriented Design](https://ecs.syr.edu/faculty/fawcett/handouts/webpages/CSE687.htm)
+    - [Computer Security](http://www.cis.syr.edu/~wedu/Teaching/InternetSecurity/)
+    - [Internet Security](http://www.cis.syr.edu/~wedu/Teaching/InternetSecurity/)
+    - [Internet Programming](https://ecs.syr.edu/faculty/fawcett/handouts/webpages/CSE686.htm)
+    - [Introduction to Cryotography](http://www.cis.syr.edu/courses/cis428/)
     - Introduction to Artificial Intelligence
     - Advanced Computer Architecture
 
