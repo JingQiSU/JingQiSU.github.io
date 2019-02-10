@@ -68,7 +68,7 @@ redirect_from:
 
 ## Publication
 
-- Deng CJ, **Qi J,** Li M, Luo X, Chi C. [Application Progress of Signal Clustering Algorithm](https://jingqisu.github.io/files/Signal Clustering Algorithm and its Application Progress in Signal Clustering.pdf), Communications in Computer and Information Science 2016
+- Deng CJ, **Qi J,** Li M, Luo X, Chi C. [Application Progress of Signal Clustering Algorithm](https://jingqisu.github.io/files/Signal Clustering Algorithm and its Application Progress in Signal Clustering.pdf), Communications in Computer and Information Science 2016 [(Link on Springer)](http://nq5hl7cp9d.search.serialssolutions.com/?ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&rft.genre=proceeding&rft.title=Communications+in+Computer+and+Information+Science&rft.atitle=Application+progress+of+signal+clustering+algorithm&rft.au=Deng%2C+Chujie&rft.au=Qi%2C+Jing&rft.au=Li%2C+Mei&rft.au=Luo%2C+Xuanchicheng&rft.date=2016-01-01&rft.isbn=9789811020520&rft.issn=1865-0929&rft.volume=623&rft.spage=221&rft.epage=227&rft_id=info:doi/10.1007%2F978-981-10-2053-7_20&rft.externalDBID=n%2Fa&rft.externalDocID=611638084&paramdict=en-US)
 
 ## Working Experience
 
