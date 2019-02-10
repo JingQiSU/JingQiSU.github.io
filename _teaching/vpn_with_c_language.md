@@ -3,7 +3,7 @@ title: "VPN with C Language"
 collection: teaching
 type: "C, Ubuntu, Network"
 permalink: /project/vpn_with_c_language
-data: 2018-1-1
+date: 2018-1-1
 ---
 
 A command line based VPN application.
