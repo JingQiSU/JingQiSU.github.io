@@ -1,7 +1,7 @@
 ---
 title: "VPN with C Language"
 collection: teaching
-type: "C, Ubuntu, Network"
+type: "C, Ubuntu, Network, VPN"
 permalink: /project/vpn_with_c_language
 date: 2018-1-1
 ---
