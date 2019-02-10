@@ -1,12 +1,11 @@
 ---
 title: "VPN with C Language"
 collection: teaching
-type: "Undergraduate course"
+type: "C, Ubuntu, Network"
 permalink: /project/vpn_with_c_language
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
 ---
+
+A command line based VPN application.
 
 ## VPN with C Language:
 
