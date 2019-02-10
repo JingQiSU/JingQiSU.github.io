@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /project/
 title: "Independent Project"
 author_profile: true
