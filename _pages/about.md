@@ -33,24 +33,6 @@ redirect_from:
 - Software:
   - Visual Studio, VS Code, PuTTY, WinSCP, Virtual Box, VMware, PyCharm, Android Studio, WireShark.
 
-## Courseworks
-
-- Software Modeling and Analysis
-- Object Oriented Design
-- Computer Security
-- Internet Security
-- Internet Programming
-- Introduction to Cryptography
-- Introduction to Artificial Intelligence
-- Advanced Computer Architecture
-
-## Awards
-
-- Graduate Student Grant, Syracuse, NY
-  - 30% Tuition Scholarship, Sep. 2017 - May. 2019
-- Academic Scholarship, Beijing, China
-  - Top 2% students, Sep. 2016 - May. 2017
-
 ## Independent Projects
 
 - VPN with C Language:
@@ -99,3 +81,21 @@ redirect_from:
   * *Intern of IT Department,* Jul. 2015 – Aug. 2015
 
   * Developed a work flow management software named TOBE in C# with WPF
+
+## Courseworks
+
+- [Software Modeling and Analysis](https://ecs.syr.edu/faculty/fawcett/handouts/webpages/CSE681.htm)
+- [Object Oriented Design](https://ecs.syr.edu/faculty/fawcett/handouts/webpages/CSE687.htm)
+- [Computer Security](http://www.cis.syr.edu/~wedu/Teaching/InternetSecurity/)
+- [Internet Security](http://www.cis.syr.edu/~wedu/Teaching/InternetSecurity/)
+- [Internet Programming](https://ecs.syr.edu/faculty/fawcett/handouts/webpages/CSE686.htm)
+- [Introduction to Cryotography](http://www.cis.syr.edu/courses/cis428/)
+- Introduction to Artificial Intelligence
+- Advanced Computer Architecture
+
+## Awards
+
+- Graduate Student Grant, Syracuse, NY
+  - 30% Tuition Scholarship, Sep. 2017 - May. 2019
+- Academic Scholarship, Beijing, China
+  - Top 2% students, Sep. 2016 - May. 2017
