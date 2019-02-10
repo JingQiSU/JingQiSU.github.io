@@ -31,7 +31,7 @@ redirect_from:
 - Operating Systems:
   - Windows, Ubuntu.
 - Software:
-  - Visual Studio, VS Code, PuTTY, WinSCP, Virtual Box, VMware, PyCharm, Android Studio, WireShark.
+  - Visual Studio, VS Code, PuTTY, WinSCP, Virtual Box, VMware, PyCharm, Android Studio, WireShark, Keil.
 
 ## Independent Projects
 
@@ -49,7 +49,7 @@ redirect_from:
   - WPF for UI design
   - WCF for communication between C/S
 
-- Twitch Data Analysis:
+- [Twitch Data Analysis](https://jingqisu.github.io/project/twitch_data_analysis):
   - A data analysis for games trend
   - Web crawler deployed on AWS with Scrapy
   - Semantic analysis with NLTK
