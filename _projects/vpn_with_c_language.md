@@ -1,7 +1,8 @@
 ---
 title: "VPN with C Language"
-collection: project
+collection: projects
 permalink: /project/vpn_with_c_language
+date: 2014-01-01
 ---
 
 ## VPN with C Language:
