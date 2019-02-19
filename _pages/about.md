@@ -15,7 +15,7 @@ redirect_from:
   - College of Engineering & Computer Science
   - Master of Engineering, Computer Engineering, Expected May 2019
   - Direction: Software System
-  - GPA: 3.82/4
+  - GPA: 3.82/4.00
 - China University of Geosciences, Beijing
   - College of Information & Engineering
   - Bachelor of Engineering, Electronic and Information Engineering, June 2017
@@ -31,7 +31,7 @@ redirect_from:
 - Operating Systems:
   - Windows, Ubuntu.
 - Software:
-  - Visual Studio, VS Code, PuTTY, WinSCP, Virtual Box, VMware, PyCharm, Android Studio, WireShark, Keil.
+  - Visual Studio, VS Code, PuTTY, WinSCP, Virtual Box, VMware, PyCharm, Jupyter Notebook, Android Studio, WireShark, Keil, Docker.
 
 ## Independent Projects
 
