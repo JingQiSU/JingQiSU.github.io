@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[(PDF version here)](https://jingqisu.github.io/files/resume-JineQi.v0.2.pdf)
+[(PDF version here)](https://jingqisu.github.io/files/resume-JineQi.v1.pdf)
 ## Education
 
 - Syracuse University, Syracuse, NY
@@ -35,36 +35,39 @@ redirect_from:
 
 ## Independent Projects
 
-- [VPN with C Language](https://jingqisu.github.io/project/vpn_with_c_language):
-  - Virtual network kernel with TUN/TAP
-  - Encrypted tunnel using SSL based on PKI
-  - Client login mechanism
-  - Multiple clients supported
+- [Implement a VPN from Scratch with C](https://jingqisu.github.io/project/vpn_with_c_language):
+  - Programed with TUN/TAP to create virtual network interface 
+  - Used SSL based on PKI to encrypt tunnel 
+  - Built a C/S communication mechanism by socket programming 
 
 - [Code Repository Client/Server System](https://jingqisu.github.io/project/code_repository_client_server_system):
-  - OOD
-  - Check in/out files, version management, file browser supported
-  - Developed a NoSQL database with C++
-  - A file and directory operations module in C++ 
-  - WPF for UI design
-  - WCF for communication between C/S
+  - Designed check in/out, version, browser modules in OOD
+  - Developed a NoSQL in-memory database with C++ 
+  - Designed the GUI with C#, the .NET WPF, and C++/CLI
+  - Designed a C++ communication system based on sockets
+
+- [Wox Plugin Development - Recall](https://jingqisu.github.io/project/wox_plugin_development_recall):
+  - Design the plugin logic followed by Wox API document
+  - Uploaded to the public Wox plugin store and 1k+ downloaded. 
 
 - [Twitch Data Analysis](https://jingqisu.github.io/project/twitch_data_analysis):
-  - A data analysis for games trend
-  - Web crawler deployed on AWS with Scrapy
-  - Semantic analysis with NLTK
-  - Data visualization with Bokeh
+  - Built a web crawler with Scrapy and deployed it on AWS
+  - Used NLTK module on Python for semantic analysis
+  - Visualized the data with Bokeh on Python 
 
-- [Automatic Number Plate Recognition System](https://jingqisu.github.io/project/automatic_number_plate_recognition_system):
-  - STM32 microchip development
-  - SVM for POI detection
-  - ANN for OCR
-  - QT for UI and serial-port communication
-  - OpenCV with C++ for image processing
+- [Automatic Number Plate Recognition (NPR) System](https://jingqisu.github.io/project/automatic_number_plate_recognition_system):
+  - Built STM32 microchip programs for image capturing and sending
+  - Wrote an NPR algorithm with OpenCV on C++ 
+  - Did POI detection by SVM, OCR by ANN 
+  - Developed GUI and serial-port communication Program with QT 
 
-- [eBook Reader](https://jingqisu.github.io/project/ebook_reader):
-  - Client designed with HTML5, CSS3, JS
-  - Server using Asp.Net Core MVC
+- [Web-based eBook Reader](https://jingqisu.github.io/project/ebook_reader):
+  - Designed web client with HTML5, CSS3, JS 
+  - Developed a server using Asp.Net Core MVC 
+
+- [Image Recognizer Based On Deep Learning](https://jingqisu.github.io/project/image_recognizer_based_on_deep_learning)
+  - Developed a neural network model from scratch with Python 
+  - Vectorized logistic regression's gradient output by Numpy 
 
 ## Publication
 
