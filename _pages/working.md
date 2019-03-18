@@ -1,6 +1,6 @@
 ---
 permalink: /working/
-title: "Working Experiences"
+title: "Experiences"
 author_profile: true
 ---
 

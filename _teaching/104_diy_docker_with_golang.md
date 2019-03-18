@@ -8,7 +8,7 @@ date: 2019-3-13
 
 <span style="color: #666666; font-size: 0.8em;">A homemade Docker</span>
 
-[Link to GitHub](https://github.com/ZzzGin/wox-recall)
+[Link to GitHub](https://github.com/ZzzGin/godocker)
 
 - Used Git to track the development process
   - Created branches to isolate the development process from master brach
