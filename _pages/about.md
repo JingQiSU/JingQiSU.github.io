@@ -81,7 +81,7 @@ redirect_from:
 
 - Deng CJ, **Qi J,** Li M, Luo X, Chi C. [Application Progress of Signal Clustering Algorithm](https://jingqisu.github.io/files/Signal Clustering Algorithm and its Application Progress in Signal Clustering.pdf), Communications in Computer and Information Science 2016 [(Link on Springer)](https://link.springer.com/chapter/10.1007/978-981-10-2053-7_20)
 
-## Working Experience
+## Experience
 
 * Syracuse University, Syracuse, NY
   * *Teaching Assistant*, Jan. 2019 – May. 2019 (Expected) 
