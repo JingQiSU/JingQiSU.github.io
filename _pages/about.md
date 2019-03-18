@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[(PDF version here)](https://jingqisu.github.io/files/resume-JingQi.v1.2.pdf)
+[(PDF version here)](https://jingqisu.github.io/files/resume-JingQi.v1.3.pdf)
 ## Education
 
 - Syracuse University, Syracuse, NY
@@ -34,6 +34,14 @@ redirect_from:
   - Visual Studio, VS Code, PuTTY, WinSCP, Virtual Box, VMware, PyCharm, Jupyter Notebook, Android Studio, WireShark, Keil, Docker.
 
 ## Independent Projects
+
+- [goDocker: a DIY Docker from scratch using Golang](https://jingqisu.github.io/project/diy_docker_with_golang)
+  - Used Git to track the development process
+  - Created subsystem containers, isolated from the host system with the help of Linux system call
+  - Implemented the main features of a real Docker
+  - Handled logs by Golang library logrus
+  - Virtual network devices
+  - Created a goDocker container for nginx 
 
 - [Implement a VPN from Scratch with C](https://jingqisu.github.io/project/vpn_with_c_language):
   - Programed with TUN/TAP to create virtual network interface 
