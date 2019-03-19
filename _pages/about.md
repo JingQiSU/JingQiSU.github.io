@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[(PDF version here)](https://jingqisu.github.io/files/resume-JingQi.v1.3.pdf)
+[(PDF version here)](https://jingqisu.github.io/files/resume-JingQi.v2.0.pdf)
 ## Education
 
 - Syracuse University, Syracuse, NY
