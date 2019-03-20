@@ -11,7 +11,7 @@ date: 2019-2-18
 [Link to GitHub](https://github.com/ZzzGin/wox-recall)
 
 - Design the plugin logic followed by [Wox API document](http://doc.wox.one/en/)
-- Uploaded to the public Wox plugin store and 1k+ downloaded. 
+- Uploaded to the public Wox plugin store and 1k+ downloaded [Link to store](http://www.wox.one/plugin/261). 
 
 [Readme.md](https://github.com/ZzzGin/wox-recall/blob/master/README.md)
 
