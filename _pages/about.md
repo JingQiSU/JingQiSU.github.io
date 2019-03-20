@@ -20,7 +20,7 @@ redirect_from:
   - College of Information & Engineering
   - Bachelor of Engineering, Electronic and Information Engineering, June 2017
 
-## Technical Skills
+## Skills and Interests
 
 - Languages:
   - Python, C++, C;
@@ -41,7 +41,7 @@ redirect_from:
   - Implemented the main features of a real Docker
   - Handled logs by Golang library logrus
   - Virtual network devices
-  - Created a goDocker container for nginx 
+  - Created a goDocker container for Nginx 
 
 - [Implement a VPN from Scratch with C](https://jingqisu.github.io/project/vpn_with_c_language):
   - Programed with TUN/TAP to create virtual network interface 

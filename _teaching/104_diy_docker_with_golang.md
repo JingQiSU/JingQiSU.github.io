@@ -32,6 +32,14 @@ date: 2019-3-13
   - exec: reenter the container's Namespace
   - stop: stop the container
   - remove: remove an stopped container
-- TODO: Virtual network devices
-- TODO: Create a goDocker container for nginx 
+
+- Virtual network supported
+  - Create: create new virtual network interface, in my project, bridge is supported
+  - List: list all created network devices
+  - You can configure the port forwording just like what you can do in real Docker
+  - Connect the containers to existed devices
+- Deployed a Nginx web server on my goDocker!
+  - Commit a Nginx container from real Docker to goDocker's image
+  - run the image and server is up!
+  - ![Nginx server on my goDocker](https://jingqisu.github.io/images/projects_images/goDocker/godocker1.png)
 - Handled logs by Golang library logrus
